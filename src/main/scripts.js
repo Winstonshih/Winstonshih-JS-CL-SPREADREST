@@ -26,7 +26,7 @@ function sum(n) {
     let sumNumbers = 0;
     for(let i=0;i<n;i++)
     {
-        sumNumber+=i;
+        sumNumbers+=i;
     }    
     sumElement.innerText = sumNumbers;
 }
